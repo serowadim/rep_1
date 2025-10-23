@@ -3,4 +3,4 @@ print("Привет")
 a = input()
 b = input()
 
-print(str(a)+str(b))
+print(str(b)+ str(a))
