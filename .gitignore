@@ -1,0 +1,37 @@
+# Файлы библиотек и зависимости
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Файлы IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Бинарные файлы
+*.exe
+*.dll
+*.bin
+*.dat
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
+# Файлы операционных систем
+.DS_Store
+Thumbs.db
+
+# Файлы сборки
+build/
+dist/
+*.egg-info/
